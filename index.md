@@ -2,7 +2,10 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+- items
+- in
+- a
+- list
 
 <br>
 
